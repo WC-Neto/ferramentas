@@ -1,0 +1,1 @@
+Primeiros passos da ánalise consistiu em ver dados mais simples, como as primeiras 5 linhas do dataset, as informações sobre as linhas e por fim, quis saber qual foi o maior número de gols feito pelo time da casa e pelo time visitante.
